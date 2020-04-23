@@ -3,7 +3,7 @@
 Go to Use **[Test Firmware](https://github.com/WidyaAi/TestTracker/releases)** download this firmware at realese of this repo
 ![examples](/docs/release.png)
 
-## Testing will start if the power is not between 12 to 24 volts.
+## Testing will start if the power is between 12 to 24 volts.
 
 > If there is a tone of sound 3 times and a half second interval, then it is a sign of failure. The device must be given a voltage between 12 volts to 24 volts.
 
