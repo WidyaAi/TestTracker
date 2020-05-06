@@ -1,7 +1,42 @@
 # Guide to Test
 ## Preparing Firmware
-Go to Use **[Test Firmware](https://github.com/WidyaAi/TestTracker/releases)** download this firmware at realese of this repo
+
+Go to use **[Test Firmware](https://github.com/WidyaAi/TestTracker/releases)** download this firmware at realese of this repo
 ![examples](/docs/release.png)
+
+Go to **[Teensy Loader](https://www.pjrc.com/teensy/loader.html)** to install downloader tool and choose according to the OS on your PC
+
+Operating System|Step                                                             |
+----------------|-----------------------------------------------------------------|
+Windows         |[Steps for Windos](https://www.pjrc.com/teensy/loader_win10.html)|
+Linux           |[Steps for Linux](https://www.pjrc.com/teensy/loader_linux.html) |
+MacOs           |[Steps for Mac OS](https://www.pjrc.com/teensy/loader_mac.html)  |
+
+It's time to embed the test system.
+
+1. Install **Key Programmer** to device as shown below : 
+
+![examples](/docs/install_key.jpg)
+
+2. Connect device to PC using microUSB connector as shown below
+
+![examples](/docs/connect_to_pc.jpg)
+
+3. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
+
+![examples](/docs/teensyloader.png)
+
+4. It will appear like this, and select the hex file "MatadorMy.ino.hex" 
+
+![examples](/docs/select_hex_file.png)
+
+5. It should appear that the hex file will be embedded, as shown below :
+
+![examples](/docs/teensyloader_1.png)
+
+6. Press the button on the key programmer and wait a minute and finish
+
+![examples](/docs/press_button.jpg)
 
 ## Testing will start if the power is between 12 to 24 volts.
 
