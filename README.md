@@ -34,7 +34,7 @@ It's time to embed the test system.
 
 ![examples](/docs/teensyloader_1.png)
 
-6. Press the button on the key programmer and wait a minute and finish
+6. Hold and press the button on the key programmer and wait a minute and finish
 
 ![examples](/docs/press_button.jpg)
 
