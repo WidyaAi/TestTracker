@@ -40,6 +40,8 @@ It's time to embed the test system.
 
 ## Testing will start if the power is between 12 to 24 volts.
 
+![examples](/docs/device_tracker.png)
+
 > If there is a tone of sound 3 times and a half second interval, then it is a sign of failure. The device must be given a voltage between 12 volts to 24 volts.
 
 > However, if there is no failure, it will sound a complicated tone and start the test iteration.
