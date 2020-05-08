@@ -16,11 +16,11 @@ It's time to embed the test system.
 
 1. Install **Key Programmer** to device as shown below : 
 
-![examples](/docs/install_key.jpg)
+![examples](/docs/install_key_.jpg)
 
 2. Connect device to PC using microUSB connector as shown below
 
-![examples](/docs/connect_to_pc.jpg)
+![examples](/docs/connect_to_pc_.jpg)
 
 3. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
 
@@ -36,7 +36,7 @@ It's time to embed the test system.
 
 6. Hold and press the button on the key programmer and wait a minute and finish
 
-![examples](/docs/press_button.jpg)
+![examples](/docs/press_button_.jpg)
 
 ## Testing will start if the power is between 12 to 24 volts.
 
