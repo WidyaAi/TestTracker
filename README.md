@@ -26,15 +26,15 @@ It's time to embed the test system.
 
 4. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
 
-![examples](/docs/teensyloader.png)
+![teensy_loader](/docs/teensyloader_.png)
 
 5. It will appear like this, and find "firmware.hex" file and choose that hex file has been downloaded.
 
-![examples](/docs/select_hex_file.png)
+![select _exfile](/docs/select_hex_file_.png)
 
 6. It should appear that the hex file will be embedded, as shown below :
 
-![examples](/docs/teensyloader_1.png)
+![examples](/docs/teensyloader1.png)
 
 7. Hold and press the button on the key programmer and wait a minute and finish.
 Ignore the resistor.
