@@ -26,7 +26,7 @@ It's time to embed the test system.
 
 ![examples](/docs/teensyloader.png)
 
-4. It will appear like this, and select the hex file "MatadorMy.ino.hex" 
+4. It will appear like this, and find "MatadorMy.ino.hex" file and select that hex file 
 
 ![examples](/docs/select_hex_file.png)
 
