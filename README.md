@@ -1,9 +1,6 @@
 # Guide to Test
 ## Preparing Firmware
 
-Go to use **[Test Firmware](https://github.com/WidyaAi/TestTracker/releases)** download this firmware at realese of this repo
-![firmware](/docs/release.png)
-
 Go to **[Teensy Loader](https://www.pjrc.com/teensy/loader.html)** to install downloader tool and choose according to the OS on your PC
 
 Operating System|Step                                                             |
@@ -16,11 +13,11 @@ It's time to embed the test system.
 
 1. Install **Key Programmer** to device as shown below : 
 
-![install_key](/docs/install_key_.jpg)
+![install_key](/docs/install_key.jpg)
 
 2. Connect device to PC using microUSB connector as shown below
 
-![connect_to_pc](/docs/connect_to_pc_.jpg)
+![connect_to_pc](/docs/connect_to_pc.jpg)
 
 3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/v0.1/firmware.hex).
 
