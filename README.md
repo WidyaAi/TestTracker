@@ -2,7 +2,7 @@
 ## Preparing Firmware
 
 Go to use **[Test Firmware](https://github.com/WidyaAi/TestTracker/releases)** download this firmware at realese of this repo
-![examples](/docs/release.png)
+![firmware](/docs/release.png)
 
 Go to **[Teensy Loader](https://www.pjrc.com/teensy/loader.html)** to install downloader tool and choose according to the OS on your PC
 
@@ -16,25 +16,28 @@ It's time to embed the test system.
 
 1. Install **Key Programmer** to device as shown below : 
 
-![examples](/docs/install_key_.jpg)
+![install_key](/docs/install_key_.jpg)
 
 2. Connect device to PC using microUSB connector as shown below
 
-![examples](/docs/connect_to_pc_.jpg)
+![connect_to_pc](/docs/connect_to_pc_.jpg)
 
-3. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
+3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/v0.1/firmware.hex).
+
+4. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
 
 ![examples](/docs/teensyloader.png)
 
-4. It will appear like this, and find "MatadorMy.ino.hex" file and select that hex file 
+5. It will appear like this, and find "firmware.hex" file and choose that hex file has been downloaded.
 
 ![examples](/docs/select_hex_file.png)
 
-5. It should appear that the hex file will be embedded, as shown below :
+6. It should appear that the hex file will be embedded, as shown below :
 
 ![examples](/docs/teensyloader_1.png)
 
-6. Hold and press the button on the key programmer and wait a minute and finish
+7. Hold and press the button on the key programmer and wait a minute and finish.
+Ignore the resistor.
 
 ![examples](/docs/press_button_.jpg)
 
@@ -48,14 +51,14 @@ It's time to embed the test system.
 
 ## Test iteration started from 1 tone until 6 tones.
 
-Total Tone    | Indicator Means
-------------- | -------------
-1             | Control Power at Super Capacitor's Voltage
-2             | Voltage at 3 wires (yellow, green, blue)
-3             | Storage Disk Card
-4             | Celluler
-5             | GPS
-6             | IMU
+Total Tone| Indicator Means
+----------| -------------
+1         | Control Power at Super Capacitor's Voltage
+2         | Voltage at 3 wires (yellow, green, blue)
+3         | Storage Disk Card
+4         | Celluler
+5         | GPS
+6         | IMU
 
 ### Control Power at Super Capacitor's Voltage
 
