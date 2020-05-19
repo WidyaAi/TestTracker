@@ -1,7 +1,15 @@
 # Guide to Test
+<br />
+
+**Updated 19 May 2020**
+
+<br />
+
 ## Preparing Firmware
 
 Go to **[Teensy Loader](https://www.pjrc.com/teensy/loader.html)** to install downloader tool and choose according to the OS on your PC
+
+<br />
 
 Operating System|Step                                                             |
 ----------------|-----------------------------------------------------------------|
@@ -9,9 +17,14 @@ Windows         |[Steps for Windos](https://www.pjrc.com/teensy/loader_win10.htm
 Linux           |[Steps for Linux](https://www.pjrc.com/teensy/loader_linux.html) |
 MacOs           |[Steps for Mac OS](https://www.pjrc.com/teensy/loader_mac.html)  |
 
+<br />
+<br />
+
 It's time to embed the test system.
 
 1. Install **Key Programmer** to device as shown below : 
+
+<br />
 
 ![install_key](/docs/install_key.jpg)
 
