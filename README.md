@@ -70,7 +70,7 @@ Total Tone| Indicator Means
 5         | GPS
 6         | IMU
 
-### Control Power at Super Capacitor's Voltage
+### [1 Tone] Control Power at Super Capacitor's Voltage
 
 > In this iteration the test usually lasts for 1 minute less, if it fails usually the tone will sound once and try again
 
@@ -80,7 +80,7 @@ Succed    | Led blinks 10 times quickly
 Failed    | Led lights on and on for one time periodically
 Reset     | You can repeat by following **[this tutorial](/README.md#repeat-testing)**.
 
-### Voltage at 3 wires (yellow, green, blue)
+### [2 Tones] Voltage at 3 wires (yellow, green, blue)
 
 > To test it, you have to install these 3 wire to 12 Volts or install each of these wire to the red wire
 
@@ -90,7 +90,7 @@ Succed    | Led blinks 10 times quickly
 Failed    | Led lights on and on for two times periodically
 Reset     | You can repeat by following **[this tutorial](/README.md#repeat-testing)**.
 
-### Storage Disk Card
+### [3 Tones] Storage Disk Card
 
 Statement | Indicator
 ----------| ----------
@@ -98,7 +98,7 @@ Succed    | Led blinks 10 times quickly
 Failed    | Led lights on and on for 3 times periodically
 Reset     | You can repeat by following **[this tutorial](/README.md#repeat-testing)**.
 
-### Celluler
+### [4 Tones] Celluler
 
 Statement | Indicator
 ----------| ----------
@@ -106,7 +106,7 @@ Succed    | Led blinks 10 times quickly
 Failed    | Led lights on and on for 4 times periodically
 Reset     | You can repeat by following **[this tutorial](/README.md#repeat-testing)**.
 
-### GPS
+### [5 Tones] GPS
 
 Statement | Indicator
 ----------| ----------
@@ -114,7 +114,7 @@ Succed    | Led blinks 10 times quickly
 Failed    | Led lights on and on for 5 times periodically
 Reset     | You can repeat by following **[this tutorial](/README.md#repeat-testing)**.
 
-### IMU
+### [6 Tones] IMU
 
 Statement | Indicator
 ----------| ----------
