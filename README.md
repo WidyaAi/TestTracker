@@ -32,7 +32,7 @@ It's time to embed the test system.
 
 ![connect_to_pc](/docs/connect_to_pc.jpg)
 
-3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/v0.1/firmware.hex).
+3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/vPassRawGps/firmware.hex).
 
 4. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
 
@@ -128,3 +128,8 @@ Reset     | You can repeat by following **[this tutorial](/README.md#repeat-test
 
 ## Repeat Testing
 if you want to repeat the test, then you can do it by giving a power voltage below 12 volts or you break it for 1 second and return it to between 12-24 volts again.
+
+## Troubleshoot
+> if the tone does not ring, there is a problem / damage with the tone.
+
+> if the LED is not on, there is a problem / damage with the LED.
