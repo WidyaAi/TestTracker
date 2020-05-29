@@ -32,7 +32,7 @@ It's time to embed the test system.
 
 ![connect_to_pc](/docs/connect_to_pc.jpg)
 
-3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/v0.1/firmware.hex).
+3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/vNewTime-0/firmware.hex).
 
 4. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
 
