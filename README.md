@@ -1,8 +1,8 @@
 # Guide to Test
 <br />
 
-**Updated 19 May 2020**
-
+**Updated 29 May 2020**
+***Passing GPSRaw***
 <br />
 
 ## Preparing Firmware
