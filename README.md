@@ -131,4 +131,5 @@ if you want to repeat the test, then you can do it by giving a power voltage bel
 
 ## Troubleshoot
 > if the tone does not ring, there is a problem / damage with the tone.
+
 > if the LED is not on, there is a problem / damage with the LED.
