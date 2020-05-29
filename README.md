@@ -1,7 +1,7 @@
 # Guide to Test
 <br />
 
-**Updated 19 May 2020**
+**Updated 29 May 2020**
 
 <br />
 
@@ -128,3 +128,7 @@ Reset     | You can repeat by following **[this tutorial](/README.md#repeat-test
 
 ## Repeat Testing
 if you want to repeat the test, then you can do it by giving a power voltage below 12 volts or you break it for 1 second and return it to between 12-24 volts again.
+
+## Troubleshoot
+> if the tone does not ring, there is a problem / damage with the tone.
+> if the LED is not on, there is a problem / damage with the LED.
