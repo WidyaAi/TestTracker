@@ -1,14 +1,17 @@
 # Guide to Test
+
 <br />
 
 **Updated 19 May 2020**
-
+<br />
+**Stream New Time From GPS Passed**
 <br />
 
 ## Preparing Firmware
 
 Go to **[Teensy Loader](https://www.pjrc.com/teensy/loader.html)** to install downloader tool and choose according to the OS on your PC
 
+<br />
 <br />
 
 Operating System|Step                                                             |
