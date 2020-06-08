@@ -1,7 +1,8 @@
 # Guide to Test
 <br />
 
-**Updated 29 May 2020**
+**Updated 8 Juni 2020**
+
 **Add SIM Card Position**
 
 <br />
