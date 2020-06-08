@@ -31,31 +31,31 @@ It's time to embed the test system.
 
 ![simcard](/docs/sim_position.jpeg)
 
-1. Install **Key Programmer** to device as shown below : 
+2. Install **Key Programmer** to device as shown below : 
 
 <br />
 
 ![install_key](/docs/install_key.jpg)
 
-2. Connect device to PC using microUSB connector as shown below
+3. Connect device to PC using microUSB connector as shown below
 
 ![connect_to_pc](/docs/connect_to_pc.jpg)
 
-3. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/vNewTime-0/firmware.hex).
+4. Download the firmware by clicking on [this link](https://github.com/WidyaAi/TestTracker/releases/download/vNewTime-0/firmware.hex).
 
-4. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
+5. Open **Teensy Loader** application, and open hex file by press "open Hex File" as shown in the red box below 
 
 ![teensy_loader](/docs/teensyloader_.png)
 
-5. It will appear like this, and find "firmware.hex" file and choose that hex file has been downloaded.
+6. It will appear like this, and find "firmware.hex" file and choose that hex file has been downloaded.
 
 ![select _exfile](/docs/select_hex_file_.png)
 
-6. It should appear that the hex file will be embedded, as shown below :
+7. It should appear that the hex file will be embedded, as shown below :
 
 ![examples](/docs/teensyloader1.png)
 
-7. Hold and press the button on the key programmer and wait a minute and finish.
+8. Hold and press the button on the key programmer and wait a minute and finish.
 Ignore the resistor.
 
 ![examples](/docs/press_button_.jpg)
