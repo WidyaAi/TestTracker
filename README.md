@@ -4,7 +4,7 @@
 
 **Updated 19 May 2020**
 <br />
-**Stream New Time From GPS Passed**
+**Add SIM Card Position**
 <br />
 
 ## Preparing Firmware
