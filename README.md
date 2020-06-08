@@ -25,6 +25,12 @@ MacOs           |[Steps for Mac OS](https://www.pjrc.com/teensy/loader_mac.html)
 
 It's time to embed the test system.
 
+1. Make sure the SIM card is positioned like the image below:
+
+<br />
+
+![simcard](/docs/sim_position.jpeg)
+
 1. Install **Key Programmer** to device as shown below : 
 
 <br />
